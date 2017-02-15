@@ -19,11 +19,10 @@ if (true) {
 }
 document.write(a+'<br>'); //正确显示
 try {
-    //document.write(b + "报错"); //报错
+    document.write(b + "报错"); //报错
 } catch (e) {
     alert(e);
 }
-
 
 /**
  * let 引用场景
@@ -34,6 +33,7 @@ var a = [];
 for (let i = 0; i < 10; i++) {
   a[i] = function () {
     document.write(i);
+    return i;
   };
 }
 document.write(a[6]()); 
