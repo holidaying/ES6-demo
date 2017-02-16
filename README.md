@@ -1,5 +1,6 @@
 
 [![codecov](https://codecov.io/gh/holidaying/ES6-demo/branch/master/graph/badge.svg)](https://codecov.io/gh/holidaying/ES6-demo)
+[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)]()
 # ES6-demo
 ES6 小demo
 >什么是ES6？
