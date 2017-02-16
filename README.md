@@ -1,7 +1,7 @@
 # ES6-demo
 ES6 小demo
-什么是ES6？
-　　>ECMAScript 6（以下简称ES6）是JavaScript语言的下一代标准，已经在2015年6月正式发布了。Mozilla公司将在这个标准的基础上，推出JavaScript 2.0。
+>什么是ES6？
+　　ECMAScript 6（以下简称ES6）是JavaScript语言的下一代标准，已经在2015年6月正式发布了。Mozilla公司将在这个标准的基础上，推出JavaScript 2.0。
 
 　　ECMAScript和JavaScript到底是什么关系？很多初学者会感到困惑，简单来说，ECMAScript是JavaScript语言的国际标准，JavaScript是ECMAScript的实现。
 
@@ -13,4 +13,4 @@ ES6 小demo
 
 　　不用紧张，对ES6的支持可以查看kangax.github.io/es5-compat-table/es6/，在这里可以清晰的了解到不同版本的浏览器对ES6功能的支持情况。随着时间的推移，支持度已经越来越高了，ES6的大部分特性都实现了。
 
-　　如果你想现在就在浏览器使用ES6的特性，还可以通过引用兼容包的方式提前尝尝鲜。 https://github.com/paulmillr/es6-shim
+　　如果你想现在就在浏览器使用ES6的特性，还可以通过引用兼容包的方式提前尝尝鲜。 [ES6的特性](https://github.com/paulmillr/es6-shim).
